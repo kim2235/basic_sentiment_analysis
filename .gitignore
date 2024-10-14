@@ -1,0 +1,36 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.cache/
+*.pytest_cache/
+
+# Coverage reports
+*.coverage
+htmlcov/
+
+# Migrations
+migrations/
+
+# Other files to ignore
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.model
